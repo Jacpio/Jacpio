@@ -1,5 +1,5 @@
 # Hi!
-## I'm Jacek and I'm interested in programming and algorithmics.
+I'm Jacek and I'm interested in programming and algorithmics.
 ## program in:
 - Java, and specializes precisely in the Spring framework
 - JavaScript, mainly in such frameworks as: React.js, React Native, Node.js
