@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacpio&label=Profile%20views&color=0e75b6&style=flat" alt="jacpio" /> </p>
 
-- I’m currently working on **WWW about Sport in my school**
+- I’m currently working on **Website about Sport in my school**
 
 - I’m currently learning **React Native**
 
