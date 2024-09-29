@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacpio&label=Profile%20views&color=0e75b6&style=flat" alt="jacpio" /> </p>
 
-- I’m currently working on **Website about Sport in my school**
+- I’m currently learning **CakePHP**
 
-- I’m currently learning **React Native**
-
-- Ask me about **Java, Spring, C# or JS**
+- Ask me about **Java, Spring, PHP**
 
 - How to reach me **jacek533558268@gmail.com**
 
