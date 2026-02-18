@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacpio&label=Profile%20views&color=0e75b6&style=flat" alt="jacpio" /> </p>
 
-- I’m currently learning **CakePHP**
+- I’m currently learning **Laravel**
 
-- Ask me about **Java, Spring, PHP**
+- Ask me about **Java, OpenGL, PHP**
 
 - How to reach me **jacek533558268@gmail.com**
 
